@@ -2,7 +2,7 @@
 A program to create, check if it's connected, pathfind, and get degree of a graph representation in adjacency matrix. 
 ## Program Feature
 #### Program Menu
-![alt text](https://github.com/deedima3/Graph-Rep.-in-Adjacency-Matrix/main/pictures/menu.png?raw=true)
+![alt text](pictures/BacktrackingExample.PNG?raw=true)
 #### Create a Adjacency Matrix
 We create an adjacency matrix using numpy array, and the fill it. We add a feature so that user can choose, if the matrix is directed or undirected
 #### Check if it's a Conected Matrix
