@@ -12,5 +12,5 @@ We check it using recursion, we select one vertex and traverse to all connected 
 We first check if the matrix is directed or not, and then we use for loop to get diagonal of a matrix add all the connected vertices to the diagonal of said matrix
 #### Pathfind
 For pathfinding we use 2 value, start(asal) and finish(tujuan). In this part of the code we implement the concept of backtracking, for this case:
-![alt text](pictures/BacktrackingExample.PNG?raw=true)
+![alt text](pictures/BacktrackingExample.PNG?raw=true)  
 We use stack list, and travelled list. If the function reach a dead end. We remove the last space and set start value to (-1) of the stack.
